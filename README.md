@@ -3,6 +3,9 @@ using fashion MNIST
 
 <h1> Created  Generative Adversarial Network using Tensorflow + Keras </h1> 
 <img src="https://github.com/adagora/images/blob/master/download.jpg" width=200>
+<h2> training process </h2>
+<img src="https://github.com/adagora/images/blob/master/fashion_training.gif" width=200>
+
 
 References:
 * [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
